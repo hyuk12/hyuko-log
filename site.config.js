@@ -4,15 +4,15 @@ const CONFIG = {
     name: "hyuko",
     image: "/cat.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend developer",
-    bio: `🌐 Industrial IoT Developer
-          🚀 Exploring tech's frontiers ✨
-
-          Currently crafting middleware and web applications, with expertise in MQTT, RabbitMQ, and Kubernetes. 
-          Skilled in data storage and visualization using InfluxDB and Grafana. 
-          Implementing seamless CI/CD pipelines with GitOps, GitHub Actions, and ArgoCD.
-
-          🌱 Learning: Spring Boot, React, AWS, MySQL
-          🏙️ From Yangsan, Gyeongsangnam-do, Korea`,
+    bio: `🌐 Industrial IoT Developer<br>
+      🚀 Exploring tech's frontiers ✨<br>
+      <br>
+      Currently crafting middleware and web applications, with expertise in MQTT, RabbitMQ, and Kubernetes.<br>
+      Skilled in data storage and visualization using InfluxDB and Grafana.<br>
+      Implementing seamless CI/CD pipelines with GitOps, GitHub Actions, and ArgoCD.<br>
+      <br>
+      🌱 Learning: Spring Boot, React, AWS, MySQL<br>
+      🏙️ From Yangsan, Gyeongsangnam-do, Korea`,
     email: "gogur7419@gmail.com",
     linkedin: "",
     github: "hyuk12",
