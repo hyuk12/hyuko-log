@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "hyuko-log",
-    description: "welcome to morethan-log!",
+    description: "welcome to hyuko-log!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
