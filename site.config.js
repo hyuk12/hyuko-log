@@ -4,10 +4,7 @@ const CONFIG = {
     name: "hyuko",
     image: "/cat.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend developer",
-    bio: `🌐 Industrial IoT Developer | 🚀 Tech Enthusiast
-Crafting middleware and web apps with expertise in MQTT, RabbitMQ, and Kubernetes.
-Skilled in InfluxDB, Grafana, and CI/CD with GitOps, GitHub Actions, and ArgoCD.
-🌱 Learning: Spring Boot, React, AWS, MySQL | 🏙️ Based in Yangsan, Korea`,
+    bio: `Always be curious and keep pushing boundaries`,
     email: "gogur7419@gmail.com",
     linkedin: "",
     github: "hyuk12",
@@ -15,8 +12,8 @@ Skilled in InfluxDB, Grafana, and CI/CD with GitOps, GitHub Actions, and ArgoCD.
   },
   projects: [
     {
-      name: `hyuko-log`,
-      href: "https://github.com/hyuk12/hyuko-log",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)
